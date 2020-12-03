@@ -268,7 +268,8 @@ Tako izgleda na mobilni verziji:
 Images bellow represent how the final result looks like
 ![final1](/images/image10.jpg  =250x)
  - Prikaz duty cycle, tipa signala in wifija
-![final2](/images/image11.jpg  =250x)
+![final2](/images/image11.jpg)
  - Povezovanje na WiFi
-![final3](/images/image12.jpg  =250x)
+![final3](/images/image12.jpg)
+<img src="./images/image12.jpg" width="200px">
  - usb kabel je tu samo za napajanje
