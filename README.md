@@ -262,7 +262,7 @@ void poslji_na_wifi() {
 Koda, ki je zapisana znotraj poslji_na_wifi(), je malenkost grdo zapisana, zato sem priložila še program “spletna stran.html”. Tam sem se malo igrala z html in css kodo, tako da zgleda zadeva malenkost bolj privlačna na videz.
 
 Tako izgleda na mobilni verziji:
-<img src="./images/image8.jpg" width="400px">
+<img src="./images/image8.jpg" width="200px">
 
 ## Result
 Images bellow represent how the final result looks like
