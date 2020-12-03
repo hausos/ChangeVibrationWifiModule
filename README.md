@@ -25,7 +25,7 @@ The signal that you that would use to regulate a DC is being simulated with a LE
 This is how the wiring looks like. For the presentation, I used the application Fritzing.
 
 
-![wiring schematic](/wiring.png)
+![wiring schematic](/images/wiring.png)
 
 ## Code
 Sedaj pojdimo na kodo. Ta je sestavljena iz 5 datotek, ki so kot rečene napisane v programskem okolju Arduino. Koda bo zapisana v pisavi Courier New, dodatni komentarji poleg obstoječih, ki sem jih napisala v angleščini pa so zapisani v pisavi Arial.
@@ -257,4 +257,10 @@ void poslji_na_wifi() {
   if (client) { … Izvede če se nas client kliče}
 ```
 
+
+### HTML koda
+Koda, ki je zapisana znotraj poslji_na_wifi(), je malenkost grdo zapisana, zato sem priložila še program “spletna stran.html”. Tam sem se malo igrala z html in css kodo, tako da zgleda zadeva malenkost bolj privlačna na videz.
+
+Tako izgleda na mobilni verziji:
+![webpage](/images/image8.png)
 
