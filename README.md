@@ -262,5 +262,13 @@ void poslji_na_wifi() {
 Koda, ki je zapisana znotraj poslji_na_wifi(), je malenkost grdo zapisana, zato sem priložila še program “spletna stran.html”. Tam sem se malo igrala z html in css kodo, tako da zgleda zadeva malenkost bolj privlačna na videz.
 
 Tako izgleda na mobilni verziji:
-![webpage](/images/image8.jpg)
+![webpage](/images/image8.jpg  =250x)
 
+## Result
+Images bellow represent how the final result looks like
+![final1](/images/image10.jpg  =250x)
+ - Prikaz duty cycle, tipa signala in wifija
+![final2](/images/image11.jpg  =250x)
+ - Povezovanje na WiFi
+![final3](/images/image12.jpg  =250x)
+ - usb kabel je tu samo za napajanje
